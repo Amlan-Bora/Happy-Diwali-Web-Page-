@@ -1,0 +1,11 @@
+body {
+  text-align: justify;
+  vertical-align: middle;
+}
+#rgb {
+  padding-top: 50px;
+  margin: auto;
+  font-family: "Anton", sans-serif;
+  font-size: 100px;
+  cursor: pointer;
+}
